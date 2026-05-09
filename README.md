@@ -4,7 +4,7 @@
 
 Acces UI : http://localhost:8080/swagger-ui/index.html#
 
-Employee Management System
+**Employee Management System
 
 A RESTful Employee Management application built using Spring Boot
 , PostgreSQL
@@ -41,21 +41,31 @@ employee-management
 │
 
 ├── src/main/java/com/company/employee
+
 │   ├── controller
+
 │   ├── service
+
 │   ├── repository
+
 │   ├── entity
+
 │   ├── exception
+
 │   ├── config
+
 │   └── EmployeeApplication.java
 │
 
 ├── src/main/resources
+
 │   ├── application.properties
+
 │   └── application-dev.properties
 │
 
 ├── pom.xml
+
 └── README.md
 
 Prerequisites
