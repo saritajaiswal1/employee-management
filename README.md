@@ -42,26 +42,26 @@ employee-management
 
 ├── src/main/java/com/company/employee
 
-│    ├── controller
+│      ├── controller
 
-│    ├── service
+│      ├── service
 
-│    ├── repository
+│      ├── repository
 
-│    ├── entity
+│      ├── entity
 
-│    ├── exception
+│      ├── exception
 
-│    ├── config
+│      ├── config
 
-│    └── EmployeeApplication.java
+│      └── EmployeeApplication.java
 │
 
 ├── src/main/resources
 
-│    ├── application.properties
+│      ├── application.properties
 
-│    └── application-dev.properties
+│      └── application-dev.properties
 │
 
 ├── pom.xml
