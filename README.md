@@ -37,29 +37,33 @@ Tech Stack
 
 Project Structure
 
+## Project Structure
+
+```text
 employee-management
 │
-├── src/main/java/com/company/employee
-│      ├── controller
-
-│      ├── service
-
-│      ├── repository
-
-│      ├── entity
-
-│      ├── exception
-
-│      ├── config
-
-│      └── EmployeeApplication.java
-├── src/main/resources
-│      ├── application.properties
-
-│      └── application-dev.properties
+├── src
+│   └── main
+│       ├── java
+│       │   └── com
+│       │       └── company
+│       │           └── employee
+│       │               ├── controller
+│       │               ├── service
+│       │               ├── repository
+│       │               ├── entity
+│       │               ├── exception
+│       │               ├── config
+│       │               └── EmployeeApplication.java
+│       │
+│       └── resources
+│           ├── application.properties
+│           └── application-dev.properties
+│
 ├── pom.xml
-
+│
 └── README.md
+```
 
 Prerequisites
 
