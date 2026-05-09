@@ -39,9 +39,7 @@ Project Structure
 
 employee-management
 │
-
 ├── src/main/java/com/company/employee
-
 │      ├── controller
 
 │      ├── service
@@ -55,15 +53,10 @@ employee-management
 │      ├── config
 
 │      └── EmployeeApplication.java
-│
-
 ├── src/main/resources
-
 │      ├── application.properties
 
 │      └── application-dev.properties
-│
-
 ├── pom.xml
 
 └── README.md
